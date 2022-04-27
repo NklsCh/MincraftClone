@@ -1,2 +1,2 @@
 # MincraftClone
- A small Minecraft Clone made with <a href="libgdx.com">libGDX</a>
+ A small Minecraft Clone made with <a href="https://libgdx.com">libGDX</a>
